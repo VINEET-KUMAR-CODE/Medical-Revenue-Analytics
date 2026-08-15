@@ -1,4 +1,4 @@
-# 📗 Excel | Medical Revenue Analytics using Microsoft Excel**
+# 📗 Excel | Medical Revenue Analytics using Microsoft Excel
 
 ### 📊 7 Domain-wise KPI Sheets
 
