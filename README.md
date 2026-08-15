@@ -1,6 +1,4 @@
-# 🏥 Medical Revenue Analytics
-
-> **End-to-End Healthcare Revenue Cycle Management (RCM) Analytics Portfolio**
+**End-to-End Healthcare Revenue Cycle Management (RCM) Analytics Portfolio**
 
 This repository contains a complete **Medical Revenue Analytics** project covering data preparation, analysis, KPI development, visualization, and business intelligence using multiple analytics tools.
 
