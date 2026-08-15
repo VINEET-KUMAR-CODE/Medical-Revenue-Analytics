@@ -1,6 +1,6 @@
 # 🗄️ SQL | Medical Revenue Analytics
-
-**11 Business Queries → Each Query Covers 7–8 SQL Concepts, overall cover 80+ sql techniques**
+--
+**Total 11 Business Queries → Each Query Covers 7–8 SQL Concepts , overall cover 80+ sql techniques**
 
 🔹 💰 Revenue & Financial Analysis  
 🔹 🧾 Claims & Billing Analytics  
@@ -23,7 +23,7 @@
 - 🎯 **Subqueries** → Nested Business Analysis
 - 📈 **Conditional Aggregation** → Advanced KPI Calculation
 
-💡 **Focus:** Real-world RCM problems converted into **business-ready SQL analysis and actionable insights**.
+💡 **Focus:** Real-world problems converted into **business-ready SQL analysis and actionable insights**.
 
 🛠️ **Tech Stack:** MySQL • Advanced SQL • Business Analytics
 
