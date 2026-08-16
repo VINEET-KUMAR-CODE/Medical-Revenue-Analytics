@@ -5,7 +5,7 @@
 **💡 INSIGHTS** = 🧠 What does it mean?*  
 **🎯 RECOMMENDATION**  =  What should we do?*
 
-# 🏥 Healthcare RCM — Python Analytics & ML
+# 🏥 Python Analytics & ML
 
 ### END-TO-END DATA → ANALYTICS → PREDICTIVE INTELLIGENCE
 
