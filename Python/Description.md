@@ -1,44 +1,17 @@
-# 🏥 RCM Python Analytics
+## Analytics Philosophy
 
-### `END-TO-END ANALYTICS PIPELINE`
-
-```text
-┌──────────────┐
-│  📂 RAW DATA │
-└──────┬───────┘
-       │
-       ▼
-┌──────────────┐
-│ ⚙️  LOADER   │
-│  loader.py   │
-└──────┬───────┘
-       │
-       ▼
-╔══════════════════════════════════════════════════════════════╗
-║                     DATA PREPARATION                        ║
-╠══════════════╦══════════════╦══════════════╦════════════════╣
-║ 01  IMPORT   ║ 02  AUDIT    ║ 03  CLEAN   ║ 04  INTEGRATE ║
-║     ↓        ║      ↓       ║      ↓      ║       ↓        ║
-║ Load Data    ║ Quality      ║ Prepare     ║ Master Data    ║
-╚══════════════╩══════════════╩══════════════╩════════════════╝
-                            │
-                            ▼
-╔══════════════════════════════════════════════════════════════╗
-║                       DATA ANALYTICS                        ║
-╠══════════════════════╦══════════════════════╦═══════════════╣
-║ 05 FEATURE ENGINEER  ║ 06 EDA               ║ 07 VISUALIZE  ║
-║         ↓            ║       ↓              ║       ↓       ║
-║ KPIs & Features      ║ Explore & Analyze    ║ Trends & KPIs ║
-╚══════════════════════╩══════════════════════╩═══════════════╝
-                            │
-                            ▼
-                    ┌──────────────────┐
-                    │ 08 💡 INSIGHTS   │
-                    │ Business Findings│
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │ 🎯 DECISIONS     │
-                    │ Actionable Output│
-                    └──────────────────┘
+     RAW DATA 
+         ↓
+"What happened?"
+         ↓
+      ANALYSIS
+         ↓
+"Why did it happen?"
+         ↓
+       INSIGHTS
+         ↓
+"What does it mean?"
+         ↓
+     RECOMMENDATION
+         ↓
+  "What should we do?"
