@@ -1,15 +1,13 @@
+## 🤖 Machine Learning Models
 
-🤖 Machine Learning Models
+This project includes **3 Machine Learning models** focused on solving high-value Healthcare RCM business problems.
 
-This project includes 3 Machine Learning models designed to solve high-value Healthcare RCM business problems:
+| # | Machine Learning Model | What It Does | Business Value |
+|---|---|---|---|
+| **01** | 📋 **Claim Approval Prediction** | Predicts the likelihood of a claim being approved or rejected. | Faster processing and reduced rejection risk |
+| **02** | 🛡️ **Fraud Detection** | Identifies suspicious claims and potential fraudulent activity. | Reduces financial risk and improves claim integrity |
+| **03** | 💰 **Revenue Forecasting** | Predicts future revenue trends using historical business data. | Supports financial planning and revenue optimization |
 
-1. 📋 Claim Approval Prediction
-Predict whether a healthcare claim is likely to be approved or rejected.
+### ML Workflow
 
-2. 🛡️ Fraud Detection
-Identify suspicious claims and detect potential fraudulent activity.
-
-3. 💰 Revenue Forecasting
-Predict future revenue trends to support financial planning and revenue optimization.
-
-3 ML Models → 3 Business Problems → Data-Driven Predictions & Decisions
+**Data → Feature Engineering → Model Training → Evaluation → Prediction → Business Decision**
