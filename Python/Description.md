@@ -1,20 +1,12 @@
 ## 🧠 Analytics Philosophy
 
-**RAW DATA**  
+**RAW DATA** = ❓ What happened?*  
       ↓  
-*❓ What happened?*  
+**📊 ANALYSIS** = 🔎 Why did it happen?*  
+
+**💡 INSIGHTS** = 🧠 What does it mean?*  
       ↓  
-**📊 ANALYSIS**  
-      ↓  
-*🔎 Why did it happen?*  
-      ↓  
-**💡 INSIGHTS**  
-      ↓  
-*🧠 What does it mean?*  
-      ↓  
-**🎯 RECOMMENDATION**  
-      ↓  
-*🚀 What should we do?*
+**🎯 RECOMMENDATION**  = 🚀 What should we do?*
 
 # 🏥 Healthcare RCM — Python Analytics & ML
 
