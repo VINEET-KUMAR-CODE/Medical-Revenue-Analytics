@@ -1,12 +1,12 @@
 ## Analytics Philosophy
 
-     RAW DATA 
-         ↓
-"What happened?"
-         ↓
-      ANALYSIS
-         ↓
-"Why did it happen?"
+-     RAW DATA 
+-        ↓
+- "What happened?"
+-        ↓
+-      ANALYSIS
+-         ↓
+-"Why did it happen?"
          ↓
        INSIGHTS
          ↓
